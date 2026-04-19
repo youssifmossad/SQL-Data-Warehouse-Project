@@ -11,7 +11,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 📄 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 📊 BI: Analytics & Reporting (Data Analytics)
 🎯 Objective
----
+
 Develop SQL-based analytics to deliver detailed insights into:
 
 👥 Customer Behavior
@@ -19,12 +19,12 @@ Develop SQL-based analytics to deliver detailed insights into:
 📈 Sales Trends
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
----
+
 📜 License
 
 This project is licensed under the MIT License.
 You are free to use, modify, and share this project with proper attribution.
----
+
 🌟 About Me
 
 I am a motivated fresh data engineer with skills in SQL, data warehousing, ETL, and data modeling. I enjoy building data solutions and turning raw data into useful insights. I am continuously learning and aiming to grow in the data field while contributing to real-world, data-driven projects. 🚀
