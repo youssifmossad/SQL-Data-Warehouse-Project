@@ -275,13 +275,13 @@ begin try
         id,
         cat,
         subcat,
-        MAINTENANCE
+        maintenance
     )
     select 
         id,
         cat,
         subcat,
-        maintainance
+        maintenance
     from bronze.erp_px_cat_g1v2;
 
     set @end_time = getdate();
