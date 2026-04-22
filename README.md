@@ -24,7 +24,7 @@ This project represents my hands-on experience in:
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](docs/ETL.png)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV files into SQL Server.
 2. **Silver Layer**: Includes data cleansing, standardization, and transformation processes.
